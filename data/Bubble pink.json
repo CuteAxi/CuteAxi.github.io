@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+    {
+            "user": "Lucy (tabbys blahaj)",
+            "link": "https://youtu.be/eV6JIk7hR0g",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
