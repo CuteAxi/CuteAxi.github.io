@@ -1,0 +1,18 @@
+{
+    "id": 116659701 ,
+    "name": "Revision",
+    "author": "CuteAxi",
+    "creators": ["CuteAxi"],
+    "verifier": "CuteAxi",
+    "verification": "https://youtu.be/yLW7n-U0h_Y?si=Nc8EgiPl4Us4tX-H",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    {
+            "user": "Tabby",
+            "link": "https://www.youtube.com/watch?v=_fBOLW9aGig",
+            "percent": 100,
+            "hz": 240
+         }
+    ]
+}
