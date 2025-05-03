@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "cicada",
+            "link": "https://www.youtube.com/watch?v=La1TIG4_CgI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
