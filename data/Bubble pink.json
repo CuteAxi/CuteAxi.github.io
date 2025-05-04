@@ -31,6 +31,13 @@
             "link": "https://www.youtube.com/watch?v=La1TIG4_CgI",
             "percent": 100,
             "hz": 240
+           },
+           {
+            "user": "Jay sucks",
+            "link": "https://youtu.be/aBjYeHIaNpM?si=ut7LJhYh1HcZbY1s",
+            "percent": 100,
+            "hz": 60
+          }
         }
     ]
 }
